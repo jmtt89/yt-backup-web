@@ -1,0 +1,1 @@
+import{vn as rv}from"./chunk-3kIyC4Nu.js";var n=class e{transform(t,r,p){return t===1?r:p}static ɵfac=function(r){return new(r||e)};static ɵpipe=rv({name:`plural`,type:e,pure:!0})};export{n as t};
