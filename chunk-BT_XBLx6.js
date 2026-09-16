@@ -1,0 +1,1 @@
+import{f as De}from"./chunk-Dr9z9Zq8.js";var r=class t{files=[];put(e){this.files=[...e]}take(){let e=this.files;return this.files=[],e}get count(){return this.files.length}static ɵfac=function(n){return new(n||t)};static ɵprov=De({token:t,factory:t.ɵfac,providedIn:`root`})};export{r as t};
