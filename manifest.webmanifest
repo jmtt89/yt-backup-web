@@ -3,15 +3,18 @@
   "short_name": "Backup",
   "description": "Back up the videos on this phone straight to YouTube, privately, without a server in the middle.",
   "id": "/",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f4f2ef",
   "theme_color": "#f4f2ef",
   "lang": "en",
   "dir": "ltr",
-  "categories": ["utilities", "photo"],
+  "categories": [
+    "utilities",
+    "photo"
+  ],
   "icons": [
     {
       "src": "icons/icon-192.png",
